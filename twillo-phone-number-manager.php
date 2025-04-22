@@ -1,10 +1,14 @@
 <?php
 /*
-Plugin Name: Twilio Phone Number Manager
-Description: Adds Twilio phone number fields to user profiles, products, and checkout pages, and sends SMS notifications on order placement.
-Version: 1.1
-Author: Your Name
+ * Plugin Name: Twilio Phone Number Manager
+ * Plugin URI: https://alihaiderhamadani.com/wp-twillo-phone-number-manager
+ * Description: Adds Twilio phone number fields to user profiles, products, and checkout pages, and sends SMS notifications on order placement.
+ * Version: 1.1
+ * Author: Syed Ali Haider
+ * Author URI: https://alihaiderhamadani.com/
+ * License: GPL v2 or later
 */
+
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
